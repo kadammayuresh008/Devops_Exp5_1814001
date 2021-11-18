@@ -1,5 +1,5 @@
 
-# ////////////////////////
+
 # Simple C++ program to display "Hello World"
 
 count=1
